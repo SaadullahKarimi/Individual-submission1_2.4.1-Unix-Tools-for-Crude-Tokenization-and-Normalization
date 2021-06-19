@@ -7,7 +7,8 @@
    course#: 712 
 
    Email: sadullah.karimi@g.bracu.ac.bd
-Before almost any natural language processing of a text, the text has to be normalized.
+   
+   https://github.com/SaadullahKarimi/Individual-submission1_2.4.1-Unix-Tools-for-Crude-Tokenization-and-Normalization
     
 
    
