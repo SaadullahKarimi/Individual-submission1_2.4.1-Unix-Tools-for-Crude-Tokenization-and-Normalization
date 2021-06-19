@@ -1,0 +1,13 @@
+
+
+   Name: Sadullah karimi
+   
+   ID#:  21166041
+   
+   course#: 712 
+
+   Email: sadullah.karimi@g.bracu.ac.bd
+Before almost any natural language processing of a text, the text has to be normalized.
+    
+
+   
